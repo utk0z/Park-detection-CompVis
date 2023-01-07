@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "718091044983",
+    "project_id": "park-space-detection",
+    "storage_bucket": "park-space-detection.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718091044983:android:a8c89bbd89251290d71e72",
+        "android_client_info": {
+          "package_name": "com.example.flutter_appim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718091044983-0bsam7g08gj5totodjnpjrlh2gta3km8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBskU8VMt1zzUH4-By-IPPLZh2n63ZOBoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718091044983-0bsam7g08gj5totodjnpjrlh2gta3km8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
